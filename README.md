@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NitishLonka
 - 👀 I’m interested in Software Development Roles
-- 🌱 I’m currently learning to deal with algorithms and data structures
 - 📫 you can reach me on nitishnihar13@gmail.com
 
 <!---
